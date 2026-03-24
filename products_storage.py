@@ -1,4 +1,3 @@
-#Проект Яндекс.Практикум 'Склад'
 #Импорт, глобальные переменные
 from datetime import datetime, date, timedelta
 from decimal import Decimal
